@@ -1,4 +1,4 @@
-# flutter-firebase-cvgo
+# flutter-firebase-cvgo. ---- an unfinished story
 
 
 ![Ekran Resmi 2022-07-26 21 53 17](https://user-images.githubusercontent.com/84295038/181089713-075cd031-dac2-4675-8d74-d65d9d942d64.png)
