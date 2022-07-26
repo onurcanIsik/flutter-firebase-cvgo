@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "694131061440",
+    "project_id": "cvgo-50fdb",
+    "storage_bucket": "cvgo-50fdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694131061440:android:b4dec2802a4b28b23fb325",
+        "android_client_info": {
+          "package_name": "com.example.gocv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694131061440-tfi5telcnkegtpra626drpjtursm8ela.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmjRA9rZyXSOdFM46y9Wm7xtr5-ik6KLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694131061440-tfi5telcnkegtpra626drpjtursm8ela.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "694131061440-oqdrm01io8jqle0k8fudleunu748i00j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gocv"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
